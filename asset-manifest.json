@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.9d3e6cd3.css",
-    "main.js": "/static/js/main.999cf71c.js",
-    "static/js/787.13d76ca7.chunk.js": "/static/js/787.13d76ca7.chunk.js",
-    "static/media/sunset.jpg": "/static/media/sunset.c9d8f716c5d66b7287fb.jpg",
-    "static/media/snow.png": "/static/media/snow.748e8becc850c9e69355.png",
-    "static/media/clear-sky.png": "/static/media/clear-sky.2c01104dc3c8def97935.png",
-    "static/media/shower-rain.png": "/static/media/shower-rain.5b98394cf6df72a62ee4.png",
-    "static/media/few-clouds.png": "/static/media/few-clouds.2714515a1f3b6642314e.png",
-    "static/media/rain.png": "/static/media/rain.27ce00f47053dfa97f35.png",
-    "static/media/scattered-clouds.png": "/static/media/scattered-clouds.4d42fdc125fce7d8e79d.png",
-    "static/media/mist.png": "/static/media/mist.373daedabef7d1f5ebf7.png",
-    "static/media/broken-clouds.png": "/static/media/broken-clouds.2f7df7cb1010225d7cbd.png",
-    "static/media/thunderstorm.png": "/static/media/thunderstorm.1e5e3c9c588fdeb0caa2.png",
-    "index.html": "/index.html",
-    "main.9d3e6cd3.css.map": "/static/css/main.9d3e6cd3.css.map",
-    "main.999cf71c.js.map": "/static/js/main.999cf71c.js.map",
-    "787.13d76ca7.chunk.js.map": "/static/js/787.13d76ca7.chunk.js.map"
+    "main.css": "./static/css/main.9d3e6cd3.css",
+    "main.js": "./static/js/main.20b5562f.js",
+    "static/js/787.13d76ca7.chunk.js": "./static/js/787.13d76ca7.chunk.js",
+    "static/media/sunset.jpg": "./static/media/sunset.c9d8f716c5d66b7287fb.jpg",
+    "static/media/snow.png": "./static/media/snow.748e8becc850c9e69355.png",
+    "static/media/clear-sky.png": "./static/media/clear-sky.2c01104dc3c8def97935.png",
+    "static/media/shower-rain.png": "./static/media/shower-rain.5b98394cf6df72a62ee4.png",
+    "static/media/few-clouds.png": "./static/media/few-clouds.2714515a1f3b6642314e.png",
+    "static/media/rain.png": "./static/media/rain.27ce00f47053dfa97f35.png",
+    "static/media/scattered-clouds.png": "./static/media/scattered-clouds.4d42fdc125fce7d8e79d.png",
+    "static/media/mist.png": "./static/media/mist.373daedabef7d1f5ebf7.png",
+    "static/media/broken-clouds.png": "./static/media/broken-clouds.2f7df7cb1010225d7cbd.png",
+    "static/media/thunderstorm.png": "./static/media/thunderstorm.1e5e3c9c588fdeb0caa2.png",
+    "index.html": "./index.html",
+    "main.9d3e6cd3.css.map": "./static/css/main.9d3e6cd3.css.map",
+    "main.20b5562f.js.map": "./static/js/main.20b5562f.js.map",
+    "787.13d76ca7.chunk.js.map": "./static/js/787.13d76ca7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9d3e6cd3.css",
-    "static/js/main.999cf71c.js"
+    "static/js/main.20b5562f.js"
   ]
 }
